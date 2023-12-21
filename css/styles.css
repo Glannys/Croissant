@@ -1,0 +1,29 @@
+body {
+  background: #fff1c5;
+}
+
+h1 {
+  color: #463832;
+  font-weight: bolder;
+  text-align: center;
+}
+
+a {
+  color: #272e6e;
+}
+
+footer,
+p {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+}
+
+img {
+  margin: 20px auto;
+  display: block;
+  max-width: 100%;
+  border-radius: 10px;
+}
